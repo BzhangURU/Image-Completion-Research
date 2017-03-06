@@ -1,9 +1,9 @@
 # Image-Completion-Project
-This Image Completion project is my undergraduate research project at Image Processing Lab, University of Science and Technology of China. The goal is to fill large holes in images and make output image looks like real. 
+This Image Completion project is my undergraduate research project at Image Processing Lab, University of Science and Technology of China. The goal is to fill large holes in images and make output image looks like real. The development tools are C++, OpenCV, QT and Visual Studio.
 
 For algorithms, please check ‘papers’ folder and ‘thesis’ folder (some of them are written in Chinese).  
 
-You can also download the whole exe folder to implement it. There is a ‘Readme Implement_Instructions’ file for instructions of how to use it.
+You can also download the whole exe folder to implement EXE file(run in Windows 64 bits). There is a ‘Readme Implement_Instructions’ file for instructions of how to use it.
 The platform is like below
 
 ![01](https://cloud.githubusercontent.com/assets/22254276/23596701/4ad77886-01ea-11e7-8f85-3eb86e61daed.png)
